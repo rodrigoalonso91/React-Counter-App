@@ -1,5 +1,4 @@
 # React Counter
----
 Contador sencillo desarrollado para probar la librería `React.JS`.
 ### Herramientas usadas:
 - Create-react-app
